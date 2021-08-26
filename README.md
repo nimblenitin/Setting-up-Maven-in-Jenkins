@@ -1,4 +1,4 @@
-# Setting-up-Maven-Jenkins
+# Setting-up-Maven-in-Jenkins
 
 Steps to setup Maven in Jenkins-
 
