@@ -1,6 +1,6 @@
 # Setting-up-Maven-Jenkins
 
-Steps to setup Maven in a Jenkins-
+Steps to setup Maven in Jenkins-
 
 *As Root*
 ```
